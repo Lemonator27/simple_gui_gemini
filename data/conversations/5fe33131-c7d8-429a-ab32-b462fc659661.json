@@ -1,0 +1,50 @@
+{
+  "id": "5fe33131-c7d8-429a-ab32-b462fc659661",
+  "name": "Conversation 2025-10-23 17:52:12",
+  "createdAt": 1761216732637,
+  "updatedAt": 1761216872068,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hãy sinh ra ảnh que cay, đồ ăn vặt không rõ nguồn gốc: Các loại này thường được bán với giá rất rẻ, màu sắc bắt mắt nhưng có thể chứa nhiều chất phụ gia, phẩm màu công nghiệp độc hại, hoặc đã hết hạn sử dụng gây nguy hiểm cho sức khỏe. đảm bảo là trông nó tuy bắt mắt nhưng ẩn chứa nhiều nguy hiểm",
+      "at": 1761216769332,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'Hãy sinh ra ảnh que cay, đồ ăn vặt không rõ nguồn gốc: Các loại này thường được bán với giá rất rẻ, màu sắc bắt mắt nhưng có thể chứa nhiều chất phụ gia, phẩm màu công nghiệp độc hại, hoặc đã hết hạn sử dụng gây nguy hiểm cho sức khỏe. đảm bảo là trông nó tuy bắt mắt nhưng ẩn chứa nhiều nguy hiểm'",
+      "at": 1761216777962,
+      "type": "image",
+      "image_path": "data\\conversations\\5fe33131-c7d8-429a-ab32-b462fc659661\\images\\generated_1761216777.png",
+      "filename": "generated_1761216777.png"
+    },
+    {
+      "role": "user",
+      "content": "Không ý tôi là que cay trung quốc cơ, có bao bì đàng hoàng ý",
+      "at": 1761216807423,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'Không ý tôi là que cay trung quốc cơ, có bao bì đàng hoàng ý'",
+      "at": 1761216819952,
+      "type": "image",
+      "image_path": "data\\conversations\\5fe33131-c7d8-429a-ab32-b462fc659661\\images\\generated_1761216819.png",
+      "filename": "generated_1761216819.png"
+    },
+    {
+      "role": "user",
+      "content": "Không đừng để trong siêu thị hãy để nó bán hàng rong người đường và hãy để nó cảm giác tiềm ẩn nhiều nguy hiểm, cũng như cảm giác thực phẩm bẩn không an toàn",
+      "at": 1761216853477,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'Không đừng để trong siêu thị hãy để nó bán hàng rong người đường và hãy để nó cảm giác tiềm ẩn nhiều nguy hiểm, cũng như cảm giác thực phẩm bẩn không an toàn'",
+      "at": 1761216872067,
+      "type": "image",
+      "image_path": "data\\conversations\\5fe33131-c7d8-429a-ab32-b462fc659661\\images\\generated_1761216872.png",
+      "filename": "generated_1761216872.png"
+    }
+  ]
+}

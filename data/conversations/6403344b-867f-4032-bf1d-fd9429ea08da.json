@@ -1,0 +1,22 @@
+{
+  "id": "6403344b-867f-4032-bf1d-fd9429ea08da",
+  "name": "Conversation 2025-10-23 18:07:26",
+  "createdAt": 1761217646027,
+  "updatedAt": 1761217674190,
+  "messages": [
+    {
+      "role": "user",
+      "content": "generate this {\n    \"scene_id\": \"choice_unclean_drink_stall\",\n    \"prompt_description\": \"Close-up of a transparent plastic cup filled with sugarcane juice. The juice itself looks appealing, but the ice cubes inside are visibly cloudy, milky, and contain small particles or sediment. In the foreground, several unpeeled sugarcane stalks are lying directly on a dusty, dirty ground or concrete floor, with visible dust and possibly small debris. The background shows part of an old, rusty sugarcane juicer machine. Highlight the contrast between the attractive juice and the unsanitary ice and raw ingredients. Realistic, high-detail photo.\",\n    \"negative_prompt\": \"Clean ice, sparkling ice, fresh, pristine, hygienic, sterile, bright, happy, cartoon, cartoonish, over-saturated, healthy, clean floor, no dust, no sediment.\",\n    \"art_style\": \"Realistic photo, candid street photography, natural light\",\n    \"details\": {\n      \"aspect_ratio\": \"16:9\",\n      \"camera_angle\": \"medium close-up, eye-level\",\n      \"lighting\": \"soft daylight\",\n      \"focus\": \"sharp focus on the cloudy ice and dirty sugarcane on the ground\"\n    }\n  },",
+      "at": 1761217662831,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'generate this {\n    \"scene_id\": \"choice_unclean_drink_stall\",\n    \"prompt_description\": \"Close-up of a transparent plastic cup filled with sugarcane juice. The juice itself looks appealing, but the ice cubes inside are visibly cloudy, milky, and contain small particles or sediment. In the foreground, several unpeeled sugarcane stalks are lying directly on a dusty, dirty ground or concrete floor, with visible dust and possibly small debris. The background shows part of an old, rusty sugarcane juicer machine. Highlight the contrast between the attractive juice and the unsanitary ice and raw ingredients. Realistic, high-detail photo.\",\n    \"negative_prompt\": \"Clean ice, sparkling ice, fresh, pristine, hygienic, sterile, bright, happy, cartoon, cartoonish, over-saturated, healthy, clean floor, no dust, no sediment.\",\n    \"art_style\": \"Realistic photo, candid street photography, natural light\",\n    \"details\": {\n      \"aspect_ratio\": \"16:9\",\n      \"camera_angle\": \"medium close-up, eye-level\",\n      \"lighting\": \"soft daylight\",\n      \"focus\": \"sharp focus on the cloudy ice and dirty sugarcane on the ground\"\n    }\n  },'",
+      "at": 1761217674190,
+      "type": "image",
+      "image_path": "data\\conversations\\6403344b-867f-4032-bf1d-fd9429ea08da\\images\\generated_1761217674.png",
+      "filename": "generated_1761217674.png"
+    }
+  ]
+}

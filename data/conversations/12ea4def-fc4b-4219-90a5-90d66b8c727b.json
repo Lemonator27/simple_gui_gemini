@@ -1,0 +1,34 @@
+{
+  "id": "12ea4def-fc4b-4219-90a5-90d66b8c727b",
+  "name": "Conversation 2025-10-23 19:07:32",
+  "createdAt": 1761221252756,
+  "updatedAt": 1761221474856,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Bạn đang ở khu thực phẩm đóng gói. Có một gói bánh bao bì nguyên vẹn, hạn sử dụng rõ ràng, in ấn sắc nét. Kế bên là gói khác bị phồng lên, bao bì móp méo, thông tin in ấn mờ nhạt và không thấy rõ hạn sử dụng.",
+      "at": 1761221253946,
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "Hãy sinh ra ảnh Bạn đang ở khu thực phẩm đóng gói. Có một gói bánh bao bì nguyên vẹn, hạn sử dụng rõ ràng, in ấn sắc nét. Kế bên là gói khác bị phồng lên, bao bì móp méo, thông tin in ấn mờ nhạt và không thấy rõ hạn sử dụng.",
+      "at": 1761221292087,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'Hãy sinh ra ảnh Bạn đang ở khu thực phẩm đóng gói. Có một gói bánh bao bì nguyên vẹn, hạn sử dụng rõ ràng, in ấn sắc nét. Kế bên là gói khác bị phồng lên, bao bì móp méo, thông tin in ấn mờ nhạt và không thấy rõ hạn sử dụng.'",
+      "at": 1761221300145,
+      "type": "image",
+      "image_path": "data\\conversations\\12ea4def-fc4b-4219-90a5-90d66b8c727b\\images\\generated_1761221300.png",
+      "filename": "generated_1761221300.png"
+    },
+    {
+      "role": "user",
+      "content": "Trước quầy thịt cá, bạn thấy những miếng thịt hồng tươi, săn chắc và những con cá mắt trong veo, vảy sáng bóng. Bên cạnh đó là những miếng thịt đã ngả màu thâm, có mùi lạ và cá mắt đục ngầu, vảy bong tróc.",
+      "at": 1761221474856,
+      "type": "text"
+    }
+  ]
+}

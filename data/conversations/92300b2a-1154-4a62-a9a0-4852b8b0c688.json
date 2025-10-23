@@ -1,0 +1,22 @@
+{
+  "id": "92300b2a-1154-4a62-a9a0-4852b8b0c688",
+  "name": "Conversation 2025-10-23 18:06:56",
+  "createdAt": 1761217616586,
+  "updatedAt": 1761217636489,
+  "messages": [
+    {
+      "role": "user",
+      "content": "generate this {\n    \"scene_id\": \"choice_unhygienic_skewers\",\n    \"prompt_description\": \"Close-up of several golden-brown fried skewers being cooked in a deep wok filled with extremely dark, thick, and murky cooking oil. The oil is bubbling vigorously, and streaks of black residue are visible on the old, greasy wok. The surrounding countertop or cooking area is stained and appears unsanitary, with crumbs and spills. Emphasize the unsanitary state of the oil and cooking environment. Realistic, high-detail photo.\",\n    \"negative_prompt\": \"Clean oil, clear oil, new wok, pristine kitchen, hygienic, sparkling, bright, cartoon, cartoonish, sterile, healthy, appetizing, fresh, vibrant colors.\",\n    \"art_style\": \"Realistic photo, documentary style, gritty texture\",\n    \"details\": {\n      \"aspect_ratio\": \"16:9\",\n      \"camera_angle\": \"close-up, low angle\",\n      \"lighting\": \"natural daylight, slightly dim\",\n      \"focus\": \"sharp focus on the dark oil and dirty wok\"\n    }",
+      "at": 1761217626155,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'generate this {\n    \"scene_id\": \"choice_unhygienic_skewers\",\n    \"prompt_description\": \"Close-up of several golden-brown fried skewers being cooked in a deep wok filled with extremely dark, thick, and murky cooking oil. The oil is bubbling vigorously, and streaks of black residue are visible on the old, greasy wok. The surrounding countertop or cooking area is stained and appears unsanitary, with crumbs and spills. Emphasize the unsanitary state of the oil and cooking environment. Realistic, high-detail photo.\",\n    \"negative_prompt\": \"Clean oil, clear oil, new wok, pristine kitchen, hygienic, sparkling, bright, cartoon, cartoonish, sterile, healthy, appetizing, fresh, vibrant colors.\",\n    \"art_style\": \"Realistic photo, documentary style, gritty texture\",\n    \"details\": {\n      \"aspect_ratio\": \"16:9\",\n      \"camera_angle\": \"close-up, low angle\",\n      \"lighting\": \"natural daylight, slightly dim\",\n      \"focus\": \"sharp focus on the dark oil and dirty wok\"\n    }'",
+      "at": 1761217636489,
+      "type": "image",
+      "image_path": "data\\conversations\\92300b2a-1154-4a62-a9a0-4852b8b0c688\\images\\generated_1761217636.png",
+      "filename": "generated_1761217636.png"
+    }
+  ]
+}

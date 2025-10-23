@@ -1,0 +1,42 @@
+{
+  "id": "f5d691e6-7179-46b8-a0f8-aabdb2f66ea0",
+  "name": "Conversation 2025-10-23 19:04:01",
+  "createdAt": 1761221041303,
+  "updatedAt": 1761221150568,
+  "messages": [
+    {
+      "role": "user",
+      "content": "sinh ảnh \"Bạn đang ở khu thực phẩm đóng gói. Có một gói bánh bao bì nguyên vẹn, hạn sử dụng rõ ràng, in ấn sắc nét. Kế bên là gói khác bị phồng lên, bao bì móp méo, thông tin in ấn mờ nhạt và không thấy rõ hạn sử dụng.\",",
+      "at": 1761221048541,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'sinh ảnh \"Bạn đang ở khu thực phẩm đóng gói. Có một gói bánh bao bì nguyên vẹn, hạn sử dụng rõ ràng, in ấn sắc nét. Kế bên là gói khác bị phồng lên, bao bì móp méo, thông tin in ấn mờ nhạt và không thấy rõ hạn sử dụng.\",'",
+      "at": 1761221057367,
+      "type": "image",
+      "image_path": "data\\conversations\\f5d691e6-7179-46b8-a0f8-aabdb2f66ea0\\images\\generated_1761221057.png",
+      "filename": "generated_1761221057.png"
+    },
+    {
+      "role": "user",
+      "content": "Trước quầy sữa và chế phẩm, có những hộp sữa chua được bảo quản lạnh đúng cách, nắp đậy kín, nguyên vẹn. Một số hộp khác thì đã bị đặt ngoài nhiệt độ phòng, nắp hơi kênh, bao bì biến dạng và có mùi lạ",
+      "at": 1761221112129,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'Trước quầy sữa và chế phẩm, có những hộp sữa chua được bảo quản lạnh đúng cách, nắp đậy kín, nguyên vẹn. Một số hộp khác thì đã bị đặt ngoài nhiệt độ phòng, nắp hơi kênh, bao bì biến dạng và có mùi lạ'",
+      "at": 1761221127542,
+      "type": "image",
+      "image_path": "data\\conversations\\f5d691e6-7179-46b8-a0f8-aabdb2f66ea0\\images\\generated_1761221127.png",
+      "filename": "generated_1761221127.png"
+    },
+    {
+      "role": "user",
+      "content": "làm cho mùi trông kinh hơn",
+      "at": 1761221150568,
+      "type": "text"
+    }
+  ]
+}

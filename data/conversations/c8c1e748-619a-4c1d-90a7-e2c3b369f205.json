@@ -1,0 +1,22 @@
+{
+  "id": "c8c1e748-619a-4c1d-90a7-e2c3b369f205",
+  "name": "Conversation 2025-10-23 18:47:47",
+  "createdAt": 1761220067639,
+  "updatedAt": 1761220077092,
+  "messages": [
+    {
+      "role": "user",
+      "content": "generate a vietnamese street food",
+      "at": 1761220069789,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'generate a vietnamese street food'",
+      "at": 1761220077092,
+      "type": "image",
+      "image_path": "data\\conversations\\c8c1e748-619a-4c1d-90a7-e2c3b369f205\\images\\generated_1761220077.png",
+      "filename": "generated_1761220077.png"
+    }
+  ]
+}

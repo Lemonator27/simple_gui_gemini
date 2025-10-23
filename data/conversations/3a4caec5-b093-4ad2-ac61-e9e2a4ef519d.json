@@ -1,0 +1,30 @@
+{
+  "id": "3a4caec5-b093-4ad2-ac61-e9e2a4ef519d",
+  "name": "Conversation 2025-10-23 19:06:09",
+  "createdAt": 1761221169215,
+  "updatedAt": 1761221215362,
+  "messages": [
+    {
+      "role": "user",
+      "content": "sinh ra ảnh sau Trước quầy thịt cá, bạn thấy những miếng thịt hồng tươi, săn chắc và những con cá mắt trong veo, vảy sáng bóng. Bên cạnh đó là những miếng thịt đã ngả màu thâm, có mùi lạ và cá mắt đục ngầu, vảy bong tróc.",
+      "at": 1761221181538,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'làm cho mùi trông kinh hơn'",
+      "at": 1761221204369,
+      "type": "image",
+      "image_path": "data\\conversations\\3a4caec5-b093-4ad2-ac61-e9e2a4ef519d\\images\\generated_1761221204.png",
+      "filename": "generated_1761221204.png"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'sinh ra ảnh sau Trước quầy thịt cá, bạn thấy những miếng thịt hồng tươi, săn chắc và những con cá mắt trong veo, vảy sáng bóng. Bên cạnh đó là những miếng thịt đã ngả màu thâm, có mùi lạ và cá mắt đục ngầu, vảy bong tróc.'",
+      "at": 1761221215362,
+      "type": "image",
+      "image_path": "data\\conversations\\3a4caec5-b093-4ad2-ac61-e9e2a4ef519d\\images\\generated_1761221215.png",
+      "filename": "generated_1761221215.png"
+    }
+  ]
+}

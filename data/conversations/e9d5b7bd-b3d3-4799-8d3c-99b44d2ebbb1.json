@@ -1,0 +1,36 @@
+{
+  "id": "e9d5b7bd-b3d3-4799-8d3c-99b44d2ebbb1",
+  "name": "Conversation 2025-10-23 19:11:23",
+  "createdAt": 1761221483345,
+  "updatedAt": 1761221524704,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hãy sinh ra ảnh Trước quầy thịt cá, bạn thấy những miếng thịt hồng tươi, săn chắc và những con cá mắt trong veo, vảy sáng bóng. Bên cạnh đó là những miếng thịt đã ngả màu thâm, có mùi lạ và cá mắt đục ngầu, vảy bong tróc.",
+      "at": 1761221495689,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'Hãy sinh ra ảnh Trước quầy thịt cá, bạn thấy những miếng thịt hồng tươi, săn chắc và những con cá mắt trong veo, vảy sáng bóng. Bên cạnh đó là những miếng thịt đã ngả màu thâm, có mùi lạ và cá mắt đục ngầu, vảy bong tróc.'",
+      "at": 1761221503746,
+      "type": "image",
+      "image_path": "data\\conversations\\e9d5b7bd-b3d3-4799-8d3c-99b44d2ebbb1\\images\\generated_1761221503.png",
+      "filename": "generated_1761221503.png"
+    },
+    {
+      "role": "user",
+      "content": "make it more not fresh",
+      "at": 1761221510326,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'make it more not fresh'",
+      "at": 1761221524703,
+      "type": "image",
+      "image_path": "data\\conversations\\e9d5b7bd-b3d3-4799-8d3c-99b44d2ebbb1\\images\\generated_1761221524.png",
+      "filename": "generated_1761221524.png"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "24aebdfe-70fd-49f5-8983-a3a811683176",
+  "name": "Conversation 2025-10-23 17:23:29",
+  "createdAt": 1761215009697,
+  "updatedAt": 1761216560967,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Bạn có thể sinh ra một bức ảnh của một mascot chú trâu nước Việt Nam mặc đồng phục THCS để gần gũi với trẻ con hơn, nếu được hãy làm cho chú trâu, chú trâu nên chibi",
+      "at": 1761215102760,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'Bạn có thể sinh ra một bức ảnh của một mascot chú trâu nước Việt Nam mặc đồng phục THCS để gần gũi với trẻ con hơn, nếu được hãy làm cho chú trâu, chú trâu nên chibi'",
+      "at": 1761215113088,
+      "type": "image",
+      "image_path": "data\\conversations\\24aebdfe-70fd-49f5-8983-a3a811683176\\images\\generated_1761215113.png",
+      "filename": "generated_1761215113.png"
+    },
+    {
+      "role": "user",
+      "content": "{\n    \"id\": \"beo_health_decline_1\",\n    \"title\": \"Béo hơi khó chịu bụng\",\n    \"description\": \"Sau khi ăn món ăn không rõ nguồn gốc lần đầu, Béo bắt đầu cảm thấy bụng hơi khó chịu, biểu hiện nhẹ nhàng.\",\n    \"prompt\": \"Make her look slightly uncomfortable. Her stomach is gently rumbling, and she has a small, worried frown on her face. She's holding his belly with one hoof.  The overall mood is slightly off but not alarming. High detail, vibrant colors.\"\n  },",
+      "at": 1761216250170,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: '{\n    \"id\": \"beo_health_decline_1\",\n    \"title\": \"Béo hơi khó chịu bụng\",\n    \"description\": \"Sau khi ăn món ăn không rõ nguồn gốc lần đầu, Béo bắt đầu cảm thấy bụng hơi khó chịu, biểu hiện nhẹ nhàng.\",\n    \"prompt\": \"Make her look slightly uncomfortable. Her stomach is gently rumbling, and she has a small, worried frown on her face. She's holding his belly with one hoof.  The overall mood is slightly off but not alarming. High detail, vibrant colors.\"\n  },'",
+      "at": 1761216264939,
+      "type": "image",
+      "image_path": "data\\conversations\\24aebdfe-70fd-49f5-8983-a3a811683176\\images\\generated_1761216264.png",
+      "filename": "generated_1761216264.png"
+    },
+    {
+      "role": "user",
+      "content": "{\n    \"id\": \"beo_health_decline_2_female\",\n    \"title\": \"Béo mệt mỏi và đau bụng nhiều hơn!\",\n    \"description\": \"Cô bé Béo đã uống một loại nước giải khát vỉa hè không đảm bảo vệ sinh. Giờ đây, Béo trông mệt mỏi hơn hẳn, mặt hơi tái và đang cố gắng ôm chặt bụng đau.\",\n    \"prompt\": \"A cute and friendly female water buffalo mascot named Béo, with round, chubby cheeks, long eyelashes, and big, innocent eyes. She looks visibly more unwell and tired. Her sweet face is a bit pale, and she's clutching her stomach with both hooves, leaning forward slightly as if in pain. Small, glistening sweat drops appear on her forehead, and her usually playful eyes are a little dulled and heavy. She's gasping softly for air. The background is a soft, comforting cartoon setting. Friendly cartoon style, like a bright watercolor painting. High detail, soft, slightly hazy lighting.\"\n  }",
+      "at": 1761216465862,
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\n    \"id\": \"beo_health_decline_2_female\",\n    \"title\": \"Béo mệt mỏi và đau bụng nhiều hơn!\",\n    \"description\": \"Cô bé Béo đã uống một loại nước giải khát vỉa hè không đảm bảo vệ sinh. Giờ đây, Béo trông mệt mỏi hơn hẳn, mặt hơi tái và đang cố gắng ôm chặt bụng đau.\",\n    \"prompt\": \"A cute and friendly female water buffalo mascot named Béo, with round, chubby cheeks, long eyelashes, and big, innocent eyes. She looks visibly more unwell and tired. Her sweet face is a bit pale, and she's clutching her stomach with both hooves, leaning forward slightly as if in pain. Small, glistening sweat drops appear on her forehead, and her usually playful eyes are a little dulled and heavy. She's gasping softly for air. The background is a soft, comforting cartoon setting. Friendly cartoon style, like a bright watercolor painting. High detail, soft, slightly hazy lighting.\"\n  },",
+      "at": 1761216506907,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: '{\n    \"id\": \"beo_health_decline_2_female\",\n    \"title\": \"Béo mệt mỏi và đau bụng nhiều hơn!\",\n    \"description\": \"Cô bé Béo đã uống một loại nước giải khát vỉa hè không đảm bảo vệ sinh. Giờ đây, Béo trông mệt mỏi hơn hẳn, mặt hơi tái và đang cố gắng ôm chặt bụng đau.\",\n    \"prompt\": \"A cute and friendly female water buffalo mascot named Béo, with round, chubby cheeks, long eyelashes, and big, innocent eyes. She looks visibly more unwell and tired. Her sweet face is a bit pale, and she's clutching her stomach with both hooves, leaning forward slightly as if in pain. Small, glistening sweat drops appear on her forehead, and her usually playful eyes are a little dulled and heavy. She's gasping softly for air. The background is a soft, comforting cartoon setting. Friendly cartoon style, like a bright watercolor painting. High detail, soft, slightly hazy lighting.\"\n  },'",
+      "at": 1761216528609,
+      "type": "image",
+      "image_path": "data\\conversations\\24aebdfe-70fd-49f5-8983-a3a811683176\\images\\generated_1761216528.png",
+      "filename": "generated_1761216528.png"
+    },
+    {
+      "role": "user",
+      "content": "{\n    \"id\": \"beo_health_decline_3_female\",\n    \"title\": \"Béo nằm bẹp, đau quặn quại!\",\n    \"description\": \"Sau khi ăn bánh tráng trộn vỉa hè, cô bé Béo bị ngộ độc thực phẩm nặng hơn. Cậu ấy nằm bẹp xuống, sắc mặt tái mét, đang cuộn tròn người vì đau bụng dữ dội.\",\n    \"prompt\": \"A cute and friendly female water buffalo mascot named Béo, with round, chubby cheeks, long eyelashes, and big, innocent eyes. She looks very ill and weak, curled into a tight ball on her side. Her face is pale and has a distinct greenish tint (like cartoon sickness), eyes half-closed in intense discomfort, almost whimpering softly. She's clutching her stomach desperately with both hooves, and prominent lines of pain are visible around her mouth. A few worried sweat beads cling to her forehead. The background is a simple, blurred indoor setting, soft and gentle, not scary. Friendly cartoon style, like a watercolor painting, conveying acute vulnerability. High detail, soft, empathetic lighting.\"\n  },",
+      "at": 1761216560967,
+      "type": "text"
+    }
+  ]
+}

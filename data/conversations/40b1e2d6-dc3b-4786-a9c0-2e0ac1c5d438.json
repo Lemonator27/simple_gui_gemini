@@ -1,0 +1,20 @@
+{
+  "id": "40b1e2d6-dc3b-4786-a9c0-2e0ac1c5d438",
+  "name": "Conversation 2025-10-23 17:18:31",
+  "createdAt": 1761214711772,
+  "updatedAt": 1761214749656,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hãy tạo cho tôi một ảnh mascot trâu nước mặc đồng phục học sinh thcs việt nam có đeo quàng khăn đỏ",
+      "at": 1761214741387,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Đây là ảnh mascot bạn yêu cầu: ",
+      "at": 1761214749656,
+      "type": "text"
+    }
+  ]
+}

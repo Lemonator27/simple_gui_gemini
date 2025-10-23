@@ -1,0 +1,50 @@
+{
+  "id": "d54083ce-abd3-4e41-a1d4-f1498f9d0044",
+  "name": "Conversation 2025-10-23 18:08:12",
+  "createdAt": 1761217692957,
+  "updatedAt": 1761217928352,
+  "messages": [
+    {
+      "role": "user",
+      "content": "generate this {\n    \"scene_id\": \"choice_exposed_ingredients_banh_mi\",\n    \"prompt_description\": \"Close-up of a Vietnamese Banh Mi street food cart. Various ingredients like sliced cold cuts (chả lụa), pate, pickled vegetables, and fresh herbs (cilantro, spring onion) are openly displayed in uncovered metal trays on the cart. Several flies are clearly visible, buzzing around and resting on the exposed food. A vendor's hand, clearly without gloves, is reaching towards the food, having just touched a crumpled banknote. The overall environment of the cart appears dusty and busy. Focus on the exposed food, flies, and ungloved hand. Realistic, high-detail photo.\",\n    \"negative_prompt\": \"Clean kitchen, hygienic, pristine, sterile, covered food, no flies, vendor wearing gloves, clean hands, bright, happy, cartoon, cartoonish, new cart, healthy.\",\n    \"art_style\": \"Realistic photo, gritty street photography, high contrast\",\n    \"details\": {\n      \"aspect_ratio\": \"16:9\",\n      \"camera_angle\": \"close-up, slightly elevated\",\n      \"lighting\": \"harsh daylight with some shadows\",\n      \"focus\": \"sharp focus on the exposed ingredients, flies, and vendor's hand\"\n    }\n  }",
+      "at": 1761217712227,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'generate this {\n    \"scene_id\": \"choice_exposed_ingredients_banh_mi\",\n    \"prompt_description\": \"Close-up of a Vietnamese Banh Mi street food cart. Various ingredients like sliced cold cuts (chả lụa), pate, pickled vegetables, and fresh herbs (cilantro, spring onion) are openly displayed in uncovered metal trays on the cart. Several flies are clearly visible, buzzing around and resting on the exposed food. A vendor's hand, clearly without gloves, is reaching towards the food, having just touched a crumpled banknote. The overall environment of the cart appears dusty and busy. Focus on the exposed food, flies, and ungloved hand. Realistic, high-detail photo.\",\n    \"negative_prompt\": \"Clean kitchen, hygienic, pristine, sterile, covered food, no flies, vendor wearing gloves, clean hands, bright, happy, cartoon, cartoonish, new cart, healthy.\",\n    \"art_style\": \"Realistic photo, gritty street photography, high contrast\",\n    \"details\": {\n      \"aspect_ratio\": \"16:9\",\n      \"camera_angle\": \"close-up, slightly elevated\",\n      \"lighting\": \"harsh daylight with some shadows\",\n      \"focus\": \"sharp focus on the exposed ingredients, flies, and vendor's hand\"\n    }\n  }'",
+      "at": 1761217720734,
+      "type": "image",
+      "image_path": "data\\conversations\\d54083ce-abd3-4e41-a1d4-f1498f9d0044\\images\\generated_1761217720.png",
+      "filename": "generated_1761217720.png"
+    },
+    {
+      "role": "user",
+      "content": "more bug and flies pls",
+      "at": 1761217800861,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'more bug and flies pls'",
+      "at": 1761217817064,
+      "type": "image",
+      "image_path": "data\\conversations\\d54083ce-abd3-4e41-a1d4-f1498f9d0044\\images\\generated_1761217817.png",
+      "filename": "generated_1761217817.png"
+    },
+    {
+      "role": "user",
+      "content": "alright, make one flies fly close up to the camera so that the sign of dirtiness is easier to spot",
+      "at": 1761217912572,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'alright, make one flies fly close up to the camera so that the sign of dirtiness is easier to spot'",
+      "at": 1761217928351,
+      "type": "image",
+      "image_path": "data\\conversations\\d54083ce-abd3-4e41-a1d4-f1498f9d0044\\images\\generated_1761217928.png",
+      "filename": "generated_1761217928.png"
+    }
+  ]
+}

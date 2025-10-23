@@ -1,0 +1,16 @@
+{
+  "id": "01428c08-9ec5-464b-afd4-8098a7502394",
+  "name": "Conversation 2025-10-23 18:47:33",
+  "createdAt": 1761220053129,
+  "updatedAt": 1761220062595,
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Generated image: 'Generate an image based on the uploaded context'",
+      "at": 1761220062595,
+      "type": "image",
+      "image_path": "data\\conversations\\01428c08-9ec5-464b-afd4-8098a7502394\\images\\generated_1761220062.png",
+      "filename": "generated_1761220062.png"
+    }
+  ]
+}

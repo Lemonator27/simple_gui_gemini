@@ -1,0 +1,16 @@
+{
+  "id": "a09e8185-8eed-46a7-a88f-98e6f55f5736",
+  "name": "Conversation 2025-10-23 18:40:10",
+  "createdAt": 1761219610895,
+  "updatedAt": 1761220048410,
+  "messages": [
+    {
+      "role": "user",
+      "content": "generate a street food image",
+      "at": 1761220048408,
+      "type": "image",
+      "image_path": "data\\conversations\\a09e8185-8eed-46a7-a88f-98e6f55f5736\\images\\generated_1761215113.png",
+      "filename": "generated_1761215113.png"
+    }
+  ]
+}

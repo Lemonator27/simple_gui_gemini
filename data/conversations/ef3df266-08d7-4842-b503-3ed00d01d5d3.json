@@ -1,0 +1,28 @@
+{
+  "id": "ef3df266-08d7-4842-b503-3ed00d01d5d3",
+  "name": "Conversation 2025-10-23 17:50:17",
+  "createdAt": 1761216617310,
+  "updatedAt": 1761216697823,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hãy làm một bức ảnh về Xiên bẩn, đồ chiên rán không rõ nguồn gốc: Bao gồm các loại cá viên chiên, xúc xích, nem chua rán, phô mai que... được bán ở các xe đẩy vỉa hè, sử dụng dầu chiên đi chiên lại nhiều lần, nguyên liệu không rõ nguồn gốc, không đảm bảo vệ sinh.",
+      "at": 1761216656037,
+      "type": "text"
+    },
+    {
+      "role": "assistant",
+      "content": "Generated image: 'Hãy làm một bức ảnh về Xiên bẩn, đồ chiên rán không rõ nguồn gốc: Bao gồm các loại cá viên chiên, xúc xích, nem chua rán, phô mai que... được bán ở các xe đẩy vỉa hè, sử dụng dầu chiên đi chiên lại nhiều lần, nguyên liệu không rõ nguồn gốc, không đảm bảo vệ sinh.'",
+      "at": 1761216666955,
+      "type": "image",
+      "image_path": "data\\conversations\\ef3df266-08d7-4842-b503-3ed00d01d5d3\\images\\generated_1761216666.png",
+      "filename": "generated_1761216666.png"
+    },
+    {
+      "role": "user",
+      "content": "Que cay, đồ ăn vặt không rõ nguồn gốc: Các loại này thường được bán với giá rất rẻ, màu sắc bắt mắt nhưng có thể chứa nhiều chất phụ gia, phẩm màu công nghiệp độc hại, hoặc đã hết hạn sử dụng gây nguy hiểm cho sức khỏe.",
+      "at": 1761216697823,
+      "type": "text"
+    }
+  ]
+}
